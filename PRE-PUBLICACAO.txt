@@ -1,0 +1,21 @@
+PRÉ-PUBLICAÇÃO — VERSÃO 51
+Concluído:
+- style.css local e responsivo
+- favicon.svg
+- página 404.html
+- links internos validados
+- Home e fotografia dr-bruno.jpg preservadas nos arquivos HTML/ativos
+- meta description da Política de Privacidade
+- estrutura desktop/mobile preparada
+
+Pendente somente no momento da publicação:
+1. Informar o domínio definitivo.
+2. Gerar canonical absolutos para cada página.
+3. Gerar sitemap.xml com URLs absolutas.
+4. Gerar robots.txt apontando para o sitemap.
+5. Configurar HTTPS, redirecionamento www/não-www e 404 no servidor.
+6. Conectar Search Console/Analytics, se desejado.
+7. Fazer teste final no domínio real.
+
+IMPORTANTE:
+A versão 51 não cria nem substitui a imagem superior aprovada da Home. O ativo original dessa imagem não existe no pacote v50 recebido; não foi recriado para evitar alterar o visual aprovado.
