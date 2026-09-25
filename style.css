@@ -15,3 +15,10 @@ footer{background:#061f36;color:#dce6ef;padding:46px 0 92px}footer a{color:#fff}
 label{font-weight:700}input,select,textarea{width:100%;padding:12px;border:1px solid #cbd7e0;border-radius:9px;font:inherit}textarea{min-height:110px}.question{margin:22px 0}.options{display:grid;gap:10px}.options button,button.option{padding:13px 16px;border:1px solid #cbd7e0;border-radius:10px;background:#fff;text-align:left;font:inherit;cursor:pointer}.options button:hover,button.option:hover{border-color:var(--navy)}
 @media(max-width:900px){.links{display:none}.grid{grid-template-columns:repeat(2,1fr)}.steps{grid-template-columns:repeat(2,1fr)}.about-home,.about{grid-template-columns:1fr}.portrait-small-wrap,.portrait{max-width:420px}.triage-call{align-items:flex-start;flex-direction:column}.foot{grid-template-columns:1fr 1fr}.mobile{display:block;position:fixed;left:16px;right:16px;bottom:14px;text-align:center;z-index:60}}
 @media(max-width:600px){.wrap{width:min(100% - 28px,1120px)}.hero{padding:56px 0}.section{padding:46px 0}.grid,.steps,.foot{grid-template-columns:1fr}.actions .btn,.hero-actions .btn{width:100%;text-align:center}.card{padding:20px}}
+
+.hero{
+  background-image: linear-gradient(rgba(255,255,255,.60), rgba(255,255,255,.60)), url("imagem avião.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
