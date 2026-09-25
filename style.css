@@ -17,8 +17,6 @@ label{font-weight:700}input,select,textarea{width:100%;padding:12px;border:1px s
 @media(max-width:600px){.wrap{width:min(100% - 28px,1120px)}.hero{padding:56px 0}.section{padding:46px 0}.grid,.steps,.foot{grid-template-columns:1fr}.actions .btn,.hero-actions .btn{width:100%;text-align:center}.card{padding:20px}}
 
 .hero{
-  background-image: url("imagem-avião-home.png.jpg")
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+    background: #f5f8fb;
+    background-image: none;
 }
